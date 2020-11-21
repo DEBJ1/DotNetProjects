@@ -76,11 +76,11 @@ namespace _06_RepositoryPattern_Repository
         }
 
         //helper method
-        private StreamingContent GetContentByTitle(string title)
+        public StreamingContent GetContentByTitle(string title)
         {
             foreach(StreamingContent content in _listOfContent)
             {
-                if(content.Title == title)
+                if(content.Title.ToLower() == title.ToLower())
                 {
                     return content;
                 }
