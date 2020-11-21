@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\08_numbers.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\08_numbers.csproj.CoreCompileInputs.cache
